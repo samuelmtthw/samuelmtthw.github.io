@@ -1,0 +1,36 @@
+/* write your code here */
+* {
+	font-family: 'Source Code Pro', monospace;
+	line-height: 1.5;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.wrapper {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	position: relative;
+	min-height: 100vh;
+}
+
+p {
+	display: inline-block;
+}
+
+.let {
+	color: blue;
+}
+
+.value {
+	color: red;
+}
+
+a {
+	text-decoration: none;
+}
+
+img {
+	vertical-align: middle;
+}
